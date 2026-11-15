@@ -1,0 +1,15 @@
+# Publicar solo los recursos y archivos fuente indicados.
+*
+!*/
+!assets/**
+!LICENSE
+!main.py
+!README.md
+!requirements.txt
+!.gitignore
+dist/**
+dist-onedir/**
+jre/*
+jre/**
+sdk/*
+sdk/**
